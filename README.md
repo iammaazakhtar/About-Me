@@ -1,14 +1,16 @@
 # About-Me
-![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
+![Header]()
 
 #### 🎉 Updates:
 
 🚀 I’m currently learning Reactjs<br>⭐ Ask me anything about MERN Stack<br>⚡ Fun fact: I prefer tabs over spaces
 
 ## Let's Connect ⚡
-Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iammaaz_) 
+Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iammaazu_) 
 <br><br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/coding_dev_)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codewithtilak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coding_dev__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithtilak) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/coding_dev_) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008470564423)  
+[![Linkedin](https://www.linkedin.com/in/mohammad-maaz-akhtar-9a599a22b/)](https://www.linkedin.com/in/mohammad-maaz-akhtar-9a599a22b/) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mohammad-Maaz-Akhtar) 
 
 # Tech Stack 💻 
 ### Languages
