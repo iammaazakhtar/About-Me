@@ -28,8 +28,5 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 
 [![](https://visitcount.itsvg.in/api?id=tilakjain123&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ##  Support my work
- <a href="https://www.buymeacoffee.com/coding_dev_" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 250px !important" ></a>
-
   
-<!-- Proudly created by Tilak (@coding_dev_) -->
+<!-- Proudly created by Maaz -->
